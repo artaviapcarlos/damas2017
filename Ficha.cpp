@@ -33,6 +33,8 @@ void Ficha::setNum(int num) {
     this->num = num;
 }
 
+//Esto es una orueba para Ronald
+
 string Ficha::toString() {
     stringstream s;
 
